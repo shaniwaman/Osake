@@ -6,7 +6,7 @@
     "sweetnessDryness": 0.3975297212600708,
     "richnessLightness": -0.28375381231307983,
     "fruity": 3,
-    "sweetness": 2,
+    "sweetness": 3,
     "place": "スパークリング",
     "comment": "",
     "category": "Sake",
@@ -27,7 +27,7 @@
         }
     ],
     "createdAt": "2026-10-11T21:09:46Z",
-    "updatedAt": "2026-10-11T21:10:22Z",
+    "updatedAt": "2026-10-14T15:17:42Z",
     "deleted": false,
     "deletedAt": ""
 }
