@@ -742,6 +742,20 @@
             "thumb": "c40eb7d2-2d70-43bb-89b2-11450bdc8c53_0.jpg",
             "updatedAt": "2026-10-11T23:13:35Z",
             "deleted": false
+        },
+        {
+            "id": "51bb267e-3ddb-482e-b033-07001eebd79d",
+            "brand": "浦霞 純米酒 720ml 瓶 1本　佐浦　宮城県　日本酒",
+            "rating": 3.0,
+            "date": "2026-10-17",
+            "category": "Sake",
+            "sweetnessDryness": -0.3414168953895569,
+            "richnessLightness": -0.12942683696746826,
+            "fruity": -2,
+            "sweetness": -2,
+            "thumb": "51bb267e-3ddb-482e-b033-07001eebd79d_0.jpg",
+            "updatedAt": "2026-10-17T10:26:56Z",
+            "deleted": false
         }
     ],
     "purged": [
