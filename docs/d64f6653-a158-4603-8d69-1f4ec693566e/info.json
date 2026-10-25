@@ -1,0 +1,47 @@
+{
+    "id": "d64f6653-a158-4603-8d69-1f4ec693566e",
+    "brand": "たかちよ　おりがらみ　しぼりたて　生原酒",
+    "rating": 4.5,
+    "date": "2026-10-25",
+    "sweetnessDryness": 0.47536981105804443,
+    "richnessLightness": 0.436722993850708,
+    "fruity": 1,
+    "sweetness": 3,
+    "place": "",
+    "comment": "",
+    "category": "Sake",
+    "subCategory": "その他",
+    "origin": "",
+    "alcoholPercent": 16.0,
+    "volumeMl": 720,
+    "images": [
+        "d64f6653-a158-4603-8d69-1f4ec693566e_0.jpg",
+        "d64f6653-a158-4603-8d69-1f4ec693566e_1.jpg",
+        "d64f6653-a158-4603-8d69-1f4ec693566e_2.jpg"
+    ],
+    "janCode": "",
+    "ecItems": [
+        {
+            "provider": "Rakuten",
+            "price": 3300,
+            "productUrl": "https://hb.afl.rakuten.co.jp/hgc/g00pnz4o.euhkme1a.g00pnz4o.euhknca4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsakeroman%2Ftakachiyo_003%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsakeroman%2Fi%2F10001615%2F&rafcid=wsc_i_is_f3345557-b8cd-4450-b856-3a4f1929fdf0",
+            "iconUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/sakeroman/cabinet/nihonsyu/takachiyo/imgrc0067546442.jpg?_ex=128x128"
+        },
+        {
+            "provider": "Yahoo",
+            "price": 3300,
+            "productUrl": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3782914&pid=892716091&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsake-komiyama%2Fni0007-023.html",
+            "iconUrl": "https://item-shopping.c.yimg.jp/i/j/sake-komiyama_ni0007-023"
+        },
+        {
+            "provider": "Amazon",
+            "price": 0,
+            "productUrl": "https://www.amazon.co.jp/s?k=%e3%81%9f%e3%81%8b%e3%81%a1%e3%82%88%e3%80%80%e3%81%8a%e3%82%8a%e3%81%8c%e3%82%89%e3%81%bf%e3%80%80%e3%81%97%e3%81%bc%e3%82%8a%e3%81%9f%e3%81%a6%e3%80%80%e7%94%9f%e5%8e%9f%e9%85%92&tag=sotafactory-22",
+            "iconUrl": ""
+        }
+    ],
+    "createdAt": "2026-10-25T10:24:24Z",
+    "updatedAt": "2026-10-25T10:24:24Z",
+    "deleted": false,
+    "deletedAt": ""
+}
