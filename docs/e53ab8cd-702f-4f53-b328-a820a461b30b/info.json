@@ -1,0 +1,35 @@
+{
+    "id": "e53ab8cd-702f-4f53-b328-a820a461b30b",
+    "brand": "北秋田　ひやおろし",
+    "rating": 3.5,
+    "date": "2026-10-25",
+    "sweetnessDryness": -0.24438345432281494,
+    "richnessLightness": 0.03051924705505371,
+    "fruity": 0,
+    "sweetness": 0,
+    "place": "",
+    "comment": "",
+    "category": "Sake",
+    "subCategory": "純米吟醸",
+    "origin": "秋田県",
+    "alcoholPercent": 17.0,
+    "volumeMl": 720,
+    "images": [
+        "e53ab8cd-702f-4f53-b328-a820a461b30b_0.jpg",
+        "e53ab8cd-702f-4f53-b328-a820a461b30b_1.jpg",
+        "e53ab8cd-702f-4f53-b328-a820a461b30b_2.jpg"
+    ],
+    "janCode": "4955596841567",
+    "ecItems": [
+        {
+            "provider": "Amazon",
+            "price": 0,
+            "productUrl": "https://www.amazon.co.jp/s?k=4955596841567&tag=sotafactory-22",
+            "iconUrl": ""
+        }
+    ],
+    "createdAt": "2026-10-25T10:25:52Z",
+    "updatedAt": "2026-10-25T10:28:05Z",
+    "deleted": false,
+    "deletedAt": ""
+}
