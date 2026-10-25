@@ -1,0 +1,41 @@
+{
+    "id": "815ef69a-1a10-44b4-b26a-aa7c9d599866",
+    "brand": "おしゃべり　くじら",
+    "rating": 4.0,
+    "date": "2026-10-25",
+    "sweetnessDryness": 0.17254018783569336,
+    "richnessLightness": -0.28065580129623413,
+    "fruity": 1,
+    "sweetness": 1,
+    "place": "",
+    "comment": "",
+    "category": "Sake",
+    "subCategory": "その他",
+    "origin": "",
+    "alcoholPercent": 0.0,
+    "volumeMl": 0,
+    "images": [
+        "815ef69a-1a10-44b4-b26a-aa7c9d599866_0.jpg",
+        "815ef69a-1a10-44b4-b26a-aa7c9d599866_1.jpg",
+        "815ef69a-1a10-44b4-b26a-aa7c9d599866_2.jpg"
+    ],
+    "janCode": "",
+    "ecItems": [
+        {
+            "provider": "Rakuten",
+            "price": 903,
+            "productUrl": "https://hb.afl.rakuten.co.jp/hgc/g00pk9ao.euhkmf38.g00pk9ao.euhknec9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgekkeikan%2Fsake029496%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgekkeikan%2Fi%2F10000715%2F&rafcid=wsc_i_is_f3345557-b8cd-4450-b856-3a4f1929fdf0",
+            "iconUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/gekkeikan/cabinet/sake/021940.jpg?_ex=128x128"
+        },
+        {
+            "provider": "Amazon",
+            "price": 0,
+            "productUrl": "https://www.amazon.co.jp/s?k=%e3%81%8a%e3%81%97%e3%82%83%e3%81%b9%e3%82%8a%e3%80%80%e3%81%8f%e3%81%98%e3%82%89%e3%80%80%e6%97%a5%e6%9c%ac%e9%85%92&tag=sotafactory-22",
+            "iconUrl": ""
+        }
+    ],
+    "createdAt": "2026-10-25T10:19:55Z",
+    "updatedAt": "2026-10-25T10:21:35Z",
+    "deleted": false,
+    "deletedAt": ""
+}
