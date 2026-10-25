@@ -1,6 +1,6 @@
 {
     "id": "815ef69a-1a10-44b4-b26a-aa7c9d599866",
-    "brand": "おしゃべり　くじら",
+    "brand": "おしゃべり　クジラ",
     "rating": 4.0,
     "date": "2026-10-25",
     "sweetnessDryness": 0.17254018783569336,
@@ -23,19 +23,25 @@
     "ecItems": [
         {
             "provider": "Rakuten",
+            "price": 834,
+            "productUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qwflo.euhkmf46.g00qwflo.euhkna82/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshochuya-doragon%2F4901030294963%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshochuya-doragon%2Fi%2F10008078%2F&rafcid=wsc_i_is_f3345557-b8cd-4450-b856-3a4f1929fdf0",
+            "iconUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/shochuya-doragon/cabinet/01411080/seisyu/4901030294963.jpg?_ex=128x128"
+        },
+        {
+            "provider": "Yahoo",
             "price": 903,
-            "productUrl": "https://hb.afl.rakuten.co.jp/hgc/g00pk9ao.euhkmf38.g00pk9ao.euhknec9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgekkeikan%2Fsake029496%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgekkeikan%2Fi%2F10000715%2F&rafcid=wsc_i_is_f3345557-b8cd-4450-b856-3a4f1929fdf0",
-            "iconUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/gekkeikan/cabinet/sake/021940.jpg?_ex=128x128"
+            "productUrl": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3782914&pid=892716091&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgekkeikan%2F021940.html",
+            "iconUrl": "https://item-shopping.c.yimg.jp/i/j/gekkeikan_021940"
         },
         {
             "provider": "Amazon",
             "price": 0,
-            "productUrl": "https://www.amazon.co.jp/s?k=%e3%81%8a%e3%81%97%e3%82%83%e3%81%b9%e3%82%8a%e3%80%80%e3%81%8f%e3%81%98%e3%82%89%e3%80%80%e6%97%a5%e6%9c%ac%e9%85%92&tag=sotafactory-22",
+            "productUrl": "https://www.amazon.co.jp/s?k=%e3%81%8a%e3%81%97%e3%82%83%e3%81%b9%e3%82%8a%e3%80%80%e3%82%af%e3%82%b8%e3%83%a9&tag=sotafactory-22",
             "iconUrl": ""
         }
     ],
     "createdAt": "2026-10-25T10:19:55Z",
-    "updatedAt": "2026-10-25T10:21:35Z",
+    "updatedAt": "2026-10-25T23:33:47Z",
     "deleted": false,
     "deletedAt": ""
 }
