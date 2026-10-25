@@ -1,0 +1,47 @@
+{
+    "id": "6ea107ec-2d6b-4b00-8203-82e1c1ebeb65",
+    "brand": "八海山　スパークリング",
+    "rating": 4.0,
+    "date": "2026-10-25",
+    "sweetnessDryness": 0.3591430187225342,
+    "richnessLightness": -0.25303560495376587,
+    "fruity": 2,
+    "sweetness": 2,
+    "place": "吉田屋",
+    "comment": "",
+    "category": "Sake",
+    "subCategory": "その他",
+    "origin": "",
+    "alcoholPercent": 14.5,
+    "volumeMl": 360,
+    "images": [
+        "6ea107ec-2d6b-4b00-8203-82e1c1ebeb65_0.jpg",
+        "6ea107ec-2d6b-4b00-8203-82e1c1ebeb65_1.jpg",
+        "6ea107ec-2d6b-4b00-8203-82e1c1ebeb65_2.jpg"
+    ],
+    "janCode": "",
+    "ecItems": [
+        {
+            "provider": "Rakuten",
+            "price": 1254,
+            "productUrl": "https://hb.afl.rakuten.co.jp/hgc/g00rey1o.euhkmf71.g00rey1o.euhkn3f7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmanroku%2F0110hakkai-30%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmanroku%2Fi%2F10004019%2F&rafcid=wsc_i_is_f3345557-b8cd-4450-b856-3a4f1929fdf0",
+            "iconUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/manroku/cabinet/img056/0110hakkai-30_1.jpg?_ex=128x128"
+        },
+        {
+            "provider": "Yahoo",
+            "price": 1254,
+            "productUrl": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3782914&pid=892716091&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmanroku-y%2F0110hakkai-30.html",
+            "iconUrl": "https://item-shopping.c.yimg.jp/i/j/manroku-y_0110hakkai-30"
+        },
+        {
+            "provider": "Amazon",
+            "price": 0,
+            "productUrl": "https://www.amazon.co.jp/s?k=%e5%85%ab%e6%b5%b7%e5%b1%b1%e3%80%80%e3%82%b9%e3%83%91%e3%83%bc%e3%82%af%e3%83%aa%e3%83%b3%e3%82%b0&tag=sotafactory-22",
+            "iconUrl": ""
+        }
+    ],
+    "createdAt": "2026-10-25T10:18:29Z",
+    "updatedAt": "2026-10-25T10:21:45Z",
+    "deleted": false,
+    "deletedAt": ""
+}
