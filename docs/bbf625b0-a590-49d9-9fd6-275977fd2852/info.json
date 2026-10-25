@@ -1,0 +1,41 @@
+{
+    "id": "bbf625b0-a590-49d9-9fd6-275977fd2852",
+    "brand": "祥鳳　ひやおろし",
+    "rating": 4.0,
+    "date": "2026-10-25",
+    "sweetnessDryness": 0.0,
+    "richnessLightness": 0.0,
+    "fruity": 0,
+    "sweetness": 0,
+    "place": "",
+    "comment": "",
+    "category": "Sake",
+    "subCategory": "純米吟醸",
+    "origin": "愛知県清須市",
+    "alcoholPercent": 16.0,
+    "volumeMl": 720,
+    "images": [
+        "bbf625b0-a590-49d9-9fd6-275977fd2852_0.jpg",
+        "bbf625b0-a590-49d9-9fd6-275977fd2852_1.jpg",
+        "bbf625b0-a590-49d9-9fd6-275977fd2852_2.jpg"
+    ],
+    "janCode": "4972212042603",
+    "ecItems": [
+        {
+            "provider": "Rakuten",
+            "price": 1265,
+            "productUrl": "https://hb.afl.rakuten.co.jp/hgc/g00rvbho.euhkm8e5.g00rvbho.euhkn01a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsake-sugita%2F2911430104443%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsake-sugita%2Fi%2F10016339%2F&rafcid=wsc_i_is_f3345557-b8cd-4450-b856-3a4f1929fdf0",
+            "iconUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/sake-sugita/cabinet/11/10705888/imgrc0129128686.jpg?_ex=128x128"
+        },
+        {
+            "provider": "Amazon",
+            "price": 0,
+            "productUrl": "https://www.amazon.co.jp/s?k=4972212042603&tag=sotafactory-22",
+            "iconUrl": ""
+        }
+    ],
+    "createdAt": "2026-10-25T10:27:17Z",
+    "updatedAt": "2026-10-25T10:27:17Z",
+    "deleted": false,
+    "deletedAt": ""
+}
