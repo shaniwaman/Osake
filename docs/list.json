@@ -786,20 +786,6 @@
             "deleted": false
         },
         {
-            "id": "d64f6653-a158-4603-8d69-1f4ec693566e",
-            "brand": "たかちよ　おりがらみ　しぼりたて　生原酒",
-            "rating": 4.5,
-            "date": "2026-10-25",
-            "category": "Sake",
-            "sweetnessDryness": 0.38,
-            "richnessLightness": 0.31,
-            "fruity": 3,
-            "sweetness": 5,
-            "thumb": "d64f6653-a158-4603-8d69-1f4ec693566e_0.jpg",
-            "updatedAt": "2026-10-26T11:06:59Z",
-            "deleted": false
-        },
-        {
             "id": "e53ab8cd-702f-4f53-b328-a820a461b30b",
             "brand": "北秋田　ひやおろし",
             "rating": 3.5,
@@ -825,6 +811,34 @@
             "sweetness": 0,
             "thumb": "bbf625b0-a590-49d9-9fd6-275977fd2852_0.jpg",
             "updatedAt": "2026-10-25T10:27:17Z",
+            "deleted": false
+        },
+        {
+            "id": "38f71d67-ec58-490f-bf88-974ace7f51ac",
+            "brand": "勲碧　中生新千本",
+            "rating": 4.5,
+            "date": "2026-11-01",
+            "category": "Sake",
+            "sweetnessDryness": 0.0,
+            "richnessLightness": 0.0,
+            "fruity": 3,
+            "sweetness": 4,
+            "thumb": "38f71d67-ec58-490f-bf88-974ace7f51ac_0.jpg",
+            "updatedAt": "2026-11-01T11:34:50Z",
+            "deleted": false
+        },
+        {
+            "id": "d64f6653-a158-4603-8d69-1f4ec693566e",
+            "brand": "たかちよ　おりがらみ　しぼりたて　生原酒",
+            "rating": 4.5,
+            "date": "2026-10-25",
+            "category": "Sake",
+            "sweetnessDryness": 0.3799999952316284,
+            "richnessLightness": 0.3100000023841858,
+            "fruity": 3,
+            "sweetness": 5,
+            "thumb": "d64f6653-a158-4603-8d69-1f4ec693566e_0.jpg",
+            "updatedAt": "2026-10-26T11:06:59Z",
             "deleted": false
         }
     ],
