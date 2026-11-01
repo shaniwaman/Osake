@@ -1,0 +1,35 @@
+{
+    "id": "38f71d67-ec58-490f-bf88-974ace7f51ac",
+    "brand": "勲碧　中生新千本",
+    "rating": 4.5,
+    "date": "2026-11-01",
+    "sweetnessDryness": 0.0,
+    "richnessLightness": 0.0,
+    "fruity": 3,
+    "sweetness": 4,
+    "place": "濃厚　甘口　",
+    "comment": "",
+    "category": "Sake",
+    "subCategory": "純米吟醸",
+    "origin": "",
+    "alcoholPercent": 17.0,
+    "volumeMl": 720,
+    "images": [
+        "38f71d67-ec58-490f-bf88-974ace7f51ac_0.jpg",
+        "38f71d67-ec58-490f-bf88-974ace7f51ac_1.jpg",
+        "38f71d67-ec58-490f-bf88-974ace7f51ac_2.jpg"
+    ],
+    "janCode": "4937287510044",
+    "ecItems": [
+        {
+            "provider": "Amazon",
+            "price": 0,
+            "productUrl": "https://www.amazon.co.jp/s?k=4937287510044&tag=sotafactory-22",
+            "iconUrl": ""
+        }
+    ],
+    "createdAt": "2026-11-01T11:34:50Z",
+    "updatedAt": "2026-11-01T11:34:50Z",
+    "deleted": false,
+    "deletedAt": ""
+}
