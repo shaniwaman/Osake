@@ -382,7 +382,7 @@
         {
             "id": "32dc7985-53bd-486e-ab25-59916921fff6",
             "brand": "羽根屋　煌火",
-            "rating": 3.0,
+            "rating": 4.0,
             "date": "2026-10-11",
             "category": "Sake",
             "sweetnessDryness": 0.41885578632354736,
@@ -390,7 +390,7 @@
             "fruity": 3,
             "sweetness": 1,
             "thumb": "32dc7985-53bd-486e-ab25-59916921fff6_0.jpg",
-            "updatedAt": "2026-10-11T09:51:01Z",
+            "updatedAt": "2026-11-01T11:45:08Z",
             "deleted": false
         },
         {
@@ -839,6 +839,20 @@
             "sweetness": 5,
             "thumb": "d64f6653-a158-4603-8d69-1f4ec693566e_0.jpg",
             "updatedAt": "2026-10-26T11:06:59Z",
+            "deleted": false
+        },
+        {
+            "id": "9b5efc78-6fc1-4161-a9b9-a07912adf9f1",
+            "brand": "沢の鶴 純米酒 山田錦 300ml 瓶 1セット（2本） 日本酒",
+            "rating": 3.0,
+            "date": "2026-11-04",
+            "category": "Sake",
+            "sweetnessDryness": 0.0,
+            "richnessLightness": 0.0,
+            "fruity": -1,
+            "sweetness": -2,
+            "thumb": "9b5efc78-6fc1-4161-a9b9-a07912adf9f1_0.jpg",
+            "updatedAt": "2026-11-04T11:52:03Z",
             "deleted": false
         }
     ],
