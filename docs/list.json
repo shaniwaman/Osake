@@ -854,6 +854,20 @@
             "thumb": "9b5efc78-6fc1-4161-a9b9-a07912adf9f1_0.jpg",
             "updatedAt": "2026-11-04T11:52:03Z",
             "deleted": false
+        },
+        {
+            "id": "26e8edd2-c07c-4e88-a284-06c83325e589",
+            "brand": "かたの桜",
+            "rating": 3.0,
+            "date": "2026-11-04",
+            "category": "Sake",
+            "sweetnessDryness": 0.0,
+            "richnessLightness": 0.0,
+            "fruity": 0,
+            "sweetness": 0,
+            "thumb": "26e8edd2-c07c-4e88-a284-06c83325e589_0.jpg",
+            "updatedAt": "2026-11-04T13:45:37Z",
+            "deleted": false
         }
     ],
     "purged": [
