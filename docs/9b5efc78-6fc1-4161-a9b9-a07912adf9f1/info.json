@@ -1,0 +1,47 @@
+{
+    "id": "9b5efc78-6fc1-4161-a9b9-a07912adf9f1",
+    "brand": "沢の鶴 純米酒 山田錦 300ml 瓶 1セット（2本） 日本酒",
+    "rating": 3.0,
+    "date": "2026-11-04",
+    "sweetnessDryness": 0.0,
+    "richnessLightness": 0.0,
+    "fruity": -1,
+    "sweetness": -2,
+    "place": "",
+    "comment": "",
+    "category": "Sake",
+    "subCategory": "純米酒",
+    "origin": "神戸",
+    "alcoholPercent": 14.5,
+    "volumeMl": 300,
+    "images": [
+        "9b5efc78-6fc1-4161-a9b9-a07912adf9f1_0.jpg",
+        "9b5efc78-6fc1-4161-a9b9-a07912adf9f1_1.jpg",
+        "9b5efc78-6fc1-4161-a9b9-a07912adf9f1_2.jpg"
+    ],
+    "janCode": "4901808032759",
+    "ecItems": [
+        {
+            "provider": "Rakuten",
+            "price": 428,
+            "productUrl": "https://hb.afl.rakuten.co.jp/hgc/g00rhqho.euhkmedd.g00rhqho.euhkn4a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsawanotsuru-junmai%2F10000060%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsawanotsuru-junmai%2Fi%2F10000060%2F&rafcid=wsc_i_is_f3345557-b8cd-4450-b856-3a4f1929fdf0",
+            "iconUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/sawanotsuru-junmai/cabinet/images/07738912/imgrc0118646493.jpg?_ex=128x128"
+        },
+        {
+            "provider": "Yahoo",
+            "price": 415,
+            "productUrl": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3782914&pid=892716091&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcocodecow%2Fy607gt.html",
+            "iconUrl": "https://item-shopping.c.yimg.jp/i/j/cocodecow_y607gt"
+        },
+        {
+            "provider": "Amazon",
+            "price": 0,
+            "productUrl": "https://www.amazon.co.jp/s?k=4901808032759&tag=sotafactory-22",
+            "iconUrl": ""
+        }
+    ],
+    "createdAt": "2026-11-04T11:52:03Z",
+    "updatedAt": "2026-11-04T11:52:03Z",
+    "deleted": false,
+    "deletedAt": ""
+}
