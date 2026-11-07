@@ -1,0 +1,47 @@
+{
+    "id": "1da23b95-54a7-47fb-9bef-2efec40a9700",
+    "brand": "秋限定 奥飛騨酒造 奥飛騨 秋あがり 純米吟醸 720ml 南飛騨 下呂 飛騨金山 奥飛騨 辛口 フルーティ G酵母 冷酒 家飲み お土産 贈り物 箱入り",
+    "rating": 3.0,
+    "date": "2026-11-07",
+    "sweetnessDryness": -0.4629752039909363,
+    "richnessLightness": 0.35261428356170654,
+    "fruity": 2,
+    "sweetness": -2,
+    "place": "",
+    "comment": "",
+    "category": "Sake",
+    "subCategory": "純米吟醸",
+    "origin": "",
+    "alcoholPercent": 0.0,
+    "volumeMl": 720,
+    "images": [
+        "1da23b95-54a7-47fb-9bef-2efec40a9700_0.jpg",
+        "1da23b95-54a7-47fb-9bef-2efec40a9700_1.jpg",
+        "1da23b95-54a7-47fb-9bef-2efec40a9700_2.jpg"
+    ],
+    "janCode": "4975422114221",
+    "ecItems": [
+        {
+            "provider": "Rakuten",
+            "price": 2675,
+            "productUrl": "https://hb.afl.rakuten.co.jp/hgc/g00ramco.euhkm8d2.g00ramco.euhkn96a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frcmdse%2Fqk-4975422114221%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frcmdse%2Fi%2F16734610%2F&rafcid=wsc_i_is_f3345557-b8cd-4450-b856-3a4f1929fdf0",
+            "iconUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rcmdse/cabinet/qk04/qk-4975422114221.jpg?_ex=128x128"
+        },
+        {
+            "provider": "Yahoo",
+            "price": 1771,
+            "productUrl": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3782914&pid=892716091&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsaketakuhida%2F12413506.html",
+            "iconUrl": "https://item-shopping.c.yimg.jp/i/j/saketakuhida_12413506"
+        },
+        {
+            "provider": "Amazon",
+            "price": 0,
+            "productUrl": "https://www.amazon.co.jp/s?k=4975422114221&tag=sotafactory-22",
+            "iconUrl": ""
+        }
+    ],
+    "createdAt": "2026-11-07T10:55:24Z",
+    "updatedAt": "2026-11-07T10:55:24Z",
+    "deleted": false,
+    "deletedAt": ""
+}
