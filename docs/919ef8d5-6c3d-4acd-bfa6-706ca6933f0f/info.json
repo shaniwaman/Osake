@@ -1,0 +1,47 @@
+{
+    "id": "919ef8d5-6c3d-4acd-bfa6-706ca6933f0f",
+    "brand": "八重寿 山田錦大吟醸 磨き四割 300ml 1本 八重寿銘醸  日本酒",
+    "rating": 2.5,
+    "date": "2026-11-07",
+    "sweetnessDryness": -0.40112972259521484,
+    "richnessLightness": 0.035185813903808594,
+    "fruity": -1,
+    "sweetness": -3,
+    "place": "",
+    "comment": "",
+    "category": "Sake",
+    "subCategory": "純米大吟醸",
+    "origin": "",
+    "alcoholPercent": 0.0,
+    "volumeMl": 300,
+    "images": [
+        "919ef8d5-6c3d-4acd-bfa6-706ca6933f0f_0.jpg",
+        "919ef8d5-6c3d-4acd-bfa6-706ca6933f0f_1.jpg",
+        "919ef8d5-6c3d-4acd-bfa6-706ca6933f0f_2.jpg"
+    ],
+    "janCode": "4903103000266",
+    "ecItems": [
+        {
+            "provider": "Rakuten",
+            "price": 720,
+            "productUrl": "https://hb.afl.rakuten.co.jp/hgc/g00pukwo.euhkmbcc.g00pukwo.euhkn048/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjism%2F4903103000266-75-30002629-n%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjism%2Fi%2F14261808%2F&rafcid=wsc_i_is_f3345557-b8cd-4450-b856-3a4f1929fdf0",
+            "iconUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/jism/cabinet/0317/4903103000266.jpg?_ex=128x128"
+        },
+        {
+            "provider": "Yahoo",
+            "price": 558,
+            "productUrl": "https://lohaco.yahoo.co.jp/store/h-lohaco/item/xu68785/",
+            "iconUrl": "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_xu68785"
+        },
+        {
+            "provider": "Amazon",
+            "price": 0,
+            "productUrl": "https://www.amazon.co.jp/s?k=4903103000266&tag=sotafactory-22",
+            "iconUrl": ""
+        }
+    ],
+    "createdAt": "2026-11-07T10:54:26Z",
+    "updatedAt": "2026-11-07T10:54:26Z",
+    "deleted": false,
+    "deletedAt": ""
+}
