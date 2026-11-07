@@ -868,6 +868,34 @@
             "thumb": "26e8edd2-c07c-4e88-a284-06c83325e589_0.jpg",
             "updatedAt": "2026-11-04T13:45:37Z",
             "deleted": false
+        },
+        {
+            "id": "919ef8d5-6c3d-4acd-bfa6-706ca6933f0f",
+            "brand": "八重寿 山田錦大吟醸 磨き四割 300ml 1本 八重寿銘醸  日本酒",
+            "rating": 2.5,
+            "date": "2026-11-07",
+            "category": "Sake",
+            "sweetnessDryness": -0.40112972259521484,
+            "richnessLightness": 0.035185813903808594,
+            "fruity": -1,
+            "sweetness": -3,
+            "thumb": "919ef8d5-6c3d-4acd-bfa6-706ca6933f0f_0.jpg",
+            "updatedAt": "2026-11-07T10:54:26Z",
+            "deleted": false
+        },
+        {
+            "id": "1da23b95-54a7-47fb-9bef-2efec40a9700",
+            "brand": "秋限定 奥飛騨酒造 奥飛騨 秋あがり 純米吟醸 720ml 南飛騨 下呂 飛騨金山 奥飛騨 辛口 フルーティ G酵母 冷酒 家飲み お土産 贈り物 箱入り",
+            "rating": 3.0,
+            "date": "2026-11-07",
+            "category": "Sake",
+            "sweetnessDryness": -0.4629752039909363,
+            "richnessLightness": 0.35261428356170654,
+            "fruity": 2,
+            "sweetness": -2,
+            "thumb": "1da23b95-54a7-47fb-9bef-2efec40a9700_0.jpg",
+            "updatedAt": "2026-11-07T10:55:24Z",
+            "deleted": false
         }
     ],
     "purged": [
