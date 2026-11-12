@@ -1,0 +1,35 @@
+{
+    "id": "64010052-6cc2-4831-bbdb-eeebe1b2a906",
+    "brand": "木曽三川　醸醸",
+    "rating": 3.5,
+    "date": "2026-11-08",
+    "sweetnessDryness": 0.46683943271636963,
+    "richnessLightness": 0.19902312755584717,
+    "fruity": 0,
+    "sweetness": 3,
+    "place": "",
+    "comment": "",
+    "category": "Sake",
+    "subCategory": "純米大吟醸",
+    "origin": "",
+    "alcoholPercent": 0.0,
+    "volumeMl": 0,
+    "images": [
+        "64010052-6cc2-4831-bbdb-eeebe1b2a906_0.jpg",
+        "64010052-6cc2-4831-bbdb-eeebe1b2a906_1.jpg",
+        "64010052-6cc2-4831-bbdb-eeebe1b2a906_2.jpg"
+    ],
+    "janCode": "",
+    "ecItems": [
+        {
+            "provider": "Amazon",
+            "price": 0,
+            "productUrl": "https://www.amazon.co.jp/s?k=%e6%9c%a8%e6%9b%bd%e4%b8%89%e5%b7%9d%e3%80%80%e9%86%b8%e9%86%b8&tag=sotafactory-22",
+            "iconUrl": ""
+        }
+    ],
+    "createdAt": "2026-11-08T13:35:47Z",
+    "updatedAt": "2026-11-08T13:35:47Z",
+    "deleted": false,
+    "deletedAt": ""
+}
