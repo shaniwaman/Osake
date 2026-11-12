@@ -1,0 +1,41 @@
+{
+    "id": "aed2ae7e-ff61-470f-b2a5-67bf6c9cf759",
+    "brand": "本格甘口　山田錦",
+    "rating": 3.0,
+    "date": "2026-11-12",
+    "sweetnessDryness": 0.3591430187225342,
+    "richnessLightness": 0.260464072227478,
+    "fruity": 0,
+    "sweetness": 2,
+    "place": "",
+    "comment": "",
+    "category": "Sake",
+    "subCategory": "特別純米酒",
+    "origin": "",
+    "alcoholPercent": 13.5,
+    "volumeMl": 720,
+    "images": [
+        "aed2ae7e-ff61-470f-b2a5-67bf6c9cf759_0.jpg",
+        "aed2ae7e-ff61-470f-b2a5-67bf6c9cf759_1.jpg",
+        "aed2ae7e-ff61-470f-b2a5-67bf6c9cf759_2.jpg"
+    ],
+    "janCode": "4901808037723",
+    "ecItems": [
+        {
+            "provider": "Rakuten",
+            "price": 1186,
+            "productUrl": "https://hb.afl.rakuten.co.jp/hgc/g00rhqho.euhkmedd.g00rhqho.euhkn4a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsawanotsuru-junmai%2F10000239%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsawanotsuru-junmai%2Fi%2F10000239%2F&rafcid=wsc_i_is_f3345557-b8cd-4450-b856-3a4f1929fdf0",
+            "iconUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/sawanotsuru-junmai/cabinet/images/12597011/imgrc0138064009.jpg?_ex=128x128"
+        },
+        {
+            "provider": "Amazon",
+            "price": 0,
+            "productUrl": "https://www.amazon.co.jp/s?k=4901808037723&tag=sotafactory-22",
+            "iconUrl": ""
+        }
+    ],
+    "createdAt": "2026-11-12T13:07:45Z",
+    "updatedAt": "2026-11-12T13:07:45Z",
+    "deleted": false,
+    "deletedAt": ""
+}
