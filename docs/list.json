@@ -987,12 +987,12 @@
             "rating": 3.5,
             "date": "2026-11-13",
             "category": "Sake",
-            "sweetnessDryness": -0.3744722008705139,
-            "richnessLightness": 0.14231228828430176,
-            "fruity": 0,
-            "sweetness": 0,
+            "sweetnessDryness": -0.41072648763656616,
+            "richnessLightness": 0.34316253662109375,
+            "fruity": 1,
+            "sweetness": -2,
             "thumb": "b80d9007-4b9d-4b74-981f-a8fa03207c35_0.jpg",
-            "updatedAt": "2026-11-13T14:16:01Z",
+            "updatedAt": "2026-11-13T14:21:25Z",
             "deleted": false
         },
         {
@@ -1003,10 +1003,10 @@
             "category": "Sake",
             "sweetnessDryness": 0.0,
             "richnessLightness": 0.0,
-            "fruity": 0,
+            "fruity": -1,
             "sweetness": -1,
             "thumb": "e0b744c8-382a-4233-a260-cba99d04d9df_0.jpg",
-            "updatedAt": "2026-11-13T14:17:07Z",
+            "updatedAt": "2026-11-13T14:21:37Z",
             "deleted": false
         },
         {
