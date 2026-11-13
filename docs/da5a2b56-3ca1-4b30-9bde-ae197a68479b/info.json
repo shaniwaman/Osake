@@ -1,0 +1,35 @@
+{
+    "id": "da5a2b56-3ca1-4b30-9bde-ae197a68479b",
+    "brand": "金鯱　純米夢吟香",
+    "rating": 2.5,
+    "date": "2026-11-13",
+    "sweetnessDryness": 0.0,
+    "richnessLightness": 0.0,
+    "fruity": 0,
+    "sweetness": 0,
+    "place": "",
+    "comment": "",
+    "category": "Sake",
+    "subCategory": "純米大吟醸",
+    "origin": "",
+    "alcoholPercent": 0.0,
+    "volumeMl": 0,
+    "images": [
+        "da5a2b56-3ca1-4b30-9bde-ae197a68479b_0.jpg",
+        "da5a2b56-3ca1-4b30-9bde-ae197a68479b_1.jpg",
+        "da5a2b56-3ca1-4b30-9bde-ae197a68479b_2.jpg"
+    ],
+    "janCode": "4573492020444",
+    "ecItems": [
+        {
+            "provider": "Amazon",
+            "price": 0,
+            "productUrl": "https://www.amazon.co.jp/s?k=4573492020444&tag=sotafactory-22",
+            "iconUrl": ""
+        }
+    ],
+    "createdAt": "2026-11-13T14:12:18Z",
+    "updatedAt": "2026-11-13T14:13:12Z",
+    "deleted": false,
+    "deletedAt": ""
+}
