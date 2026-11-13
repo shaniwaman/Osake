@@ -5,12 +5,12 @@
     "date": "2026-11-13",
     "sweetnessDryness": 0.0,
     "richnessLightness": 0.0,
-    "fruity": 0,
+    "fruity": -1,
     "sweetness": -1,
     "place": "",
     "comment": "",
     "category": "Sake",
-    "subCategory": "純米大吟醸",
+    "subCategory": "純米吟醸",
     "origin": "",
     "alcoholPercent": 14.0,
     "volumeMl": 300,
@@ -42,7 +42,7 @@
         }
     ],
     "createdAt": "2026-11-13T14:10:37Z",
-    "updatedAt": "2026-11-13T14:17:07Z",
+    "updatedAt": "2026-11-13T14:21:37Z",
     "deleted": false,
     "deletedAt": ""
 }
