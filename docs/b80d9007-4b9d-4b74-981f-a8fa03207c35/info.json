@@ -3,10 +3,10 @@
     "brand": "麒麟山 伝統辛口(伝辛) 原酒 300ml",
     "rating": 3.5,
     "date": "2026-11-13",
-    "sweetnessDryness": -0.3744722008705139,
-    "richnessLightness": 0.14231228828430176,
-    "fruity": 0,
-    "sweetness": 0,
+    "sweetnessDryness": -0.41072648763656616,
+    "richnessLightness": 0.34316253662109375,
+    "fruity": 1,
+    "sweetness": -2,
     "place": "",
     "comment": "",
     "category": "Sake",
@@ -42,7 +42,7 @@
         }
     ],
     "createdAt": "2026-11-13T14:09:51Z",
-    "updatedAt": "2026-11-13T14:16:01Z",
+    "updatedAt": "2026-11-13T14:21:25Z",
     "deleted": false,
     "deletedAt": ""
 }
