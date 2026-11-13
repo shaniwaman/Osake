@@ -180,7 +180,7 @@
             "fruity": 2,
             "sweetness": 3,
             "thumb": "118c74f8-9bb3-40a4-9008-31dbda5eca79_0.jpg",
-            "updatedAt": "2026-10-04T08:25:31Z",
+            "updatedAt": "2026-11-12T13:49:14Z",
             "deleted": false
         },
         {
@@ -979,6 +979,48 @@
             "sweetness": 0,
             "thumb": "cc179568-405d-4cf3-b533-9d9b6644d6ea_0.jpg",
             "updatedAt": "2026-11-12T13:21:32Z",
+            "deleted": false
+        },
+        {
+            "id": "b80d9007-4b9d-4b74-981f-a8fa03207c35",
+            "brand": "麒麟山 伝統辛口(伝辛) 原酒 300ml",
+            "rating": 3.5,
+            "date": "2026-11-13",
+            "category": "Sake",
+            "sweetnessDryness": -0.3744722008705139,
+            "richnessLightness": 0.14231228828430176,
+            "fruity": 0,
+            "sweetness": 0,
+            "thumb": "b80d9007-4b9d-4b74-981f-a8fa03207c35_0.jpg",
+            "updatedAt": "2026-11-13T14:11:06Z",
+            "deleted": false
+        },
+        {
+            "id": "e0b744c8-382a-4233-a260-cba99d04d9df",
+            "brand": "麒麟山 伝統辛口 300ml でんから",
+            "rating": 3.5,
+            "date": "2026-11-13",
+            "category": "Sake",
+            "sweetnessDryness": 0.0,
+            "richnessLightness": 0.0,
+            "fruity": 0,
+            "sweetness": -1,
+            "thumb": "e0b744c8-382a-4233-a260-cba99d04d9df_0.jpg",
+            "updatedAt": "2026-11-13T14:11:00Z",
+            "deleted": false
+        },
+        {
+            "id": "da5a2b56-3ca1-4b30-9bde-ae197a68479b",
+            "brand": "金鯱　純米夢吟香",
+            "rating": 2.5,
+            "date": "2026-11-13",
+            "category": "Sake",
+            "sweetnessDryness": 0.0,
+            "richnessLightness": 0.0,
+            "fruity": 0,
+            "sweetness": 0,
+            "thumb": "da5a2b56-3ca1-4b30-9bde-ae197a68479b_0.jpg",
+            "updatedAt": "2026-11-13T14:13:12Z",
             "deleted": false
         }
     ],
