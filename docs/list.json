@@ -1022,6 +1022,48 @@
             "thumb": "da5a2b56-3ca1-4b30-9bde-ae197a68479b_0.jpg",
             "updatedAt": "2026-11-13T14:13:12Z",
             "deleted": false
+        },
+        {
+            "id": "4b9feba6-1949-475d-931b-662a99a9540a",
+            "brand": "ロック酒　by jozen",
+            "rating": 3.0,
+            "date": "2026-11-20",
+            "category": "Sake",
+            "sweetnessDryness": 0.0,
+            "richnessLightness": 0.0,
+            "fruity": 2,
+            "sweetness": -2,
+            "thumb": "4b9feba6-1949-475d-931b-662a99a9540a_0.jpg",
+            "updatedAt": "2026-11-19T23:05:50Z",
+            "deleted": false
+        },
+        {
+            "id": "ab031fd1-9758-4b84-a099-13ad21cbf757",
+            "brand": "日本酒 庵 備前雄町 無濾過純米吟醸 原酒 720ml 熊屋酒造 岡山 クラフトサケ 清酒 フルーティ",
+            "rating": 4.0,
+            "date": "2026-11-21",
+            "category": "Sake",
+            "sweetnessDryness": 0.38046908378601074,
+            "richnessLightness": 0.27626514434814453,
+            "fruity": 0,
+            "sweetness": 0,
+            "thumb": "ab031fd1-9758-4b84-a099-13ad21cbf757_0.jpg",
+            "updatedAt": "2026-11-21T00:46:01Z",
+            "deleted": false
+        },
+        {
+            "id": "50f67066-c2c6-4ebc-abb9-8aac06b4f708",
+            "brand": "スパークリングワイン チリ バルディビエソ ブリュット 750ml",
+            "rating": 3.0,
+            "date": "2026-11-21",
+            "category": "Wine",
+            "sweetnessDryness": 0.0,
+            "richnessLightness": 0.0,
+            "fruity": 0,
+            "sweetness": 0,
+            "thumb": "50f67066-c2c6-4ebc-abb9-8aac06b4f708_0.jpg",
+            "updatedAt": "2026-11-21T00:47:11Z",
+            "deleted": false
         }
     ],
     "purged": [
