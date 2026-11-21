@@ -1,0 +1,47 @@
+{
+    "id": "50f67066-c2c6-4ebc-abb9-8aac06b4f708",
+    "brand": "スパークリングワイン チリ バルディビエソ ブリュット 750ml",
+    "rating": 3.0,
+    "date": "2026-11-21",
+    "sweetnessDryness": 0.0,
+    "richnessLightness": 0.0,
+    "fruity": 0,
+    "sweetness": 0,
+    "place": "",
+    "comment": "",
+    "category": "Wine",
+    "subCategory": "スパークリング",
+    "origin": "",
+    "alcoholPercent": 0.0,
+    "volumeMl": 750,
+    "images": [
+        "50f67066-c2c6-4ebc-abb9-8aac06b4f708_0.jpg",
+        "50f67066-c2c6-4ebc-abb9-8aac06b4f708_1.jpg",
+        "50f67066-c2c6-4ebc-abb9-8aac06b4f708_2.jpg"
+    ],
+    "janCode": "7802180068169",
+    "ecItems": [
+        {
+            "provider": "Rakuten",
+            "price": 1408,
+            "productUrl": "https://hb.afl.rakuten.co.jp/hgc/g00q4h0o.euhkma98.g00q4h0o.euhkn77a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fichiishop%2F10006246%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fichiishop%2Fi%2F10006246%2F&rafcid=wsc_i_is_f3345557-b8cd-4450-b856-3a4f1929fdf0",
+            "iconUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/ichiishop/cabinet/newitem/500/imgrc0069920987.jpg?_ex=128x128"
+        },
+        {
+            "provider": "Yahoo",
+            "price": 1096,
+            "productUrl": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3782914&pid=892716091&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fe-felicity%2Fvaldiv-brut.html",
+            "iconUrl": "https://item-shopping.c.yimg.jp/i/j/e-felicity_valdiv-brut"
+        },
+        {
+            "provider": "Amazon",
+            "price": 0,
+            "productUrl": "https://www.amazon.co.jp/s?k=7802180068169&tag=sotafactory-22",
+            "iconUrl": ""
+        }
+    ],
+    "createdAt": "2026-11-21T00:47:11Z",
+    "updatedAt": "2026-11-21T00:47:11Z",
+    "deleted": false,
+    "deletedAt": ""
+}
