@@ -1,0 +1,47 @@
+{
+    "id": "ab031fd1-9758-4b84-a099-13ad21cbf757",
+    "brand": "日本酒 庵 備前雄町 無濾過純米吟醸 原酒 720ml 熊屋酒造 岡山 クラフトサケ 清酒 フルーティ",
+    "rating": 4.0,
+    "date": "2026-11-21",
+    "sweetnessDryness": 0.38046908378601074,
+    "richnessLightness": 0.27626514434814453,
+    "fruity": 0,
+    "sweetness": 0,
+    "place": "",
+    "comment": "",
+    "category": "Sake",
+    "subCategory": "純米吟醸",
+    "origin": "",
+    "alcoholPercent": 0.0,
+    "volumeMl": 720,
+    "images": [
+        "ab031fd1-9758-4b84-a099-13ad21cbf757_0.jpg",
+        "ab031fd1-9758-4b84-a099-13ad21cbf757_1.jpg",
+        "ab031fd1-9758-4b84-a099-13ad21cbf757_2.jpg"
+    ],
+    "janCode": "4939917704373",
+    "ecItems": [
+        {
+            "provider": "Rakuten",
+            "price": 1980,
+            "productUrl": "https://hb.afl.rakuten.co.jp/hgc/g00smbto.euhkm1de.g00smbto.euhkn7c6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjouir%2F31840%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjouir%2Fi%2F10009486%2F&rafcid=wsc_i_is_f3345557-b8cd-4450-b856-3a4f1929fdf0",
+            "iconUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/jouir/cabinet/05384650/31840.jpg?_ex=128x128"
+        },
+        {
+            "provider": "Yahoo",
+            "price": 1980,
+            "productUrl": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3782914&pid=892716091&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fplat-sake%2F31840.html",
+            "iconUrl": "https://item-shopping.c.yimg.jp/i/j/plat-sake_31840"
+        },
+        {
+            "provider": "Amazon",
+            "price": 0,
+            "productUrl": "https://www.amazon.co.jp/s?k=4939917704373&tag=sotafactory-22",
+            "iconUrl": ""
+        }
+    ],
+    "createdAt": "2026-11-21T00:46:01Z",
+    "updatedAt": "2026-11-21T00:46:01Z",
+    "deleted": false,
+    "deletedAt": ""
+}
