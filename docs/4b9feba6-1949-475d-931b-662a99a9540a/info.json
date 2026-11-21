@@ -1,0 +1,47 @@
+{
+    "id": "4b9feba6-1949-475d-931b-662a99a9540a",
+    "brand": "ロック酒　by jozen",
+    "rating": 3.0,
+    "date": "2026-11-20",
+    "sweetnessDryness": 0.0,
+    "richnessLightness": 0.0,
+    "fruity": 2,
+    "sweetness": -2,
+    "place": "",
+    "comment": "",
+    "category": "Sake",
+    "subCategory": "純米酒",
+    "origin": "",
+    "alcoholPercent": 0.0,
+    "volumeMl": 0,
+    "images": [
+        "4b9feba6-1949-475d-931b-662a99a9540a_0.jpg",
+        "4b9feba6-1949-475d-931b-662a99a9540a_1.jpg",
+        "4b9feba6-1949-475d-931b-662a99a9540a_2.jpg"
+    ],
+    "janCode": "",
+    "ecItems": [
+        {
+            "provider": "Rakuten",
+            "price": 3296,
+            "productUrl": "https://hb.afl.rakuten.co.jp/hgc/g00rde1o.euhkm0e6.g00rde1o.euhkn19b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fissyusouden%2F19413719-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fissyusouden%2Fi%2F10024789%2F&rafcid=wsc_i_is_f3345557-b8cd-4450-b856-3a4f1929fdf0",
+            "iconUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/issyusouden/cabinet/2021_01/05/19413719-2.jpg?_ex=128x128"
+        },
+        {
+            "provider": "Yahoo",
+            "price": 1600,
+            "productUrl": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3782914&pid=892716091&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fminatoya%2F6053130.html",
+            "iconUrl": "https://item-shopping.c.yimg.jp/i/j/minatoya_6053130"
+        },
+        {
+            "provider": "Amazon",
+            "price": 0,
+            "productUrl": "https://www.amazon.co.jp/s?k=%e3%83%ad%e3%83%83%e3%82%af%e9%85%92%e3%80%80by+jozen&tag=sotafactory-22",
+            "iconUrl": ""
+        }
+    ],
+    "createdAt": "2026-11-19T23:05:50Z",
+    "updatedAt": "2026-11-19T23:05:50Z",
+    "deleted": false,
+    "deletedAt": ""
+}
