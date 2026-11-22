@@ -1064,6 +1064,48 @@
             "thumb": "50f67066-c2c6-4ebc-abb9-8aac06b4f708_0.jpg",
             "updatedAt": "2026-11-21T00:47:11Z",
             "deleted": false
+        },
+        {
+            "id": "55ee88b3-f1db-4098-b013-fcd463607380",
+            "brand": "ドンシモシ　モミザ",
+            "rating": 3.0,
+            "date": "2026-11-22",
+            "category": "Wine",
+            "sweetnessDryness": 0.0,
+            "richnessLightness": 0.0,
+            "fruity": 0,
+            "sweetness": 0,
+            "thumb": "55ee88b3-f1db-4098-b013-fcd463607380_0.jpg",
+            "updatedAt": "2026-11-22T02:49:47Z",
+            "deleted": false
+        },
+        {
+            "id": "31b4769f-9f01-484a-8929-6245bd9f3060",
+            "brand": "ふなぐち菊水 一番しぼり 200ml ｘ 2ケース / 計60本 父親 誕生日 プレゼント クリスマス ギフト お歳暮 ご進物 お年賀 冬ギフト",
+            "rating": 3.5,
+            "date": "2026-11-22",
+            "category": "Sake",
+            "sweetnessDryness": 0.0,
+            "richnessLightness": 0.0,
+            "fruity": 0,
+            "sweetness": 0,
+            "thumb": "31b4769f-9f01-484a-8929-6245bd9f3060_0.jpg",
+            "updatedAt": "2026-11-22T02:52:23Z",
+            "deleted": false
+        },
+        {
+            "id": "60be3788-138b-4e35-9ca9-3a8cfb8d4c33",
+            "brand": "菊水　アルピニスト",
+            "rating": 3.0,
+            "date": "2026-11-22",
+            "category": "Sake",
+            "sweetnessDryness": 0.11282742023468018,
+            "richnessLightness": -0.3097459077835083,
+            "fruity": 0,
+            "sweetness": 0,
+            "thumb": "60be3788-138b-4e35-9ca9-3a8cfb8d4c33_0.jpg",
+            "updatedAt": "2026-11-22T03:57:42Z",
+            "deleted": false
         }
     ],
     "purged": [
