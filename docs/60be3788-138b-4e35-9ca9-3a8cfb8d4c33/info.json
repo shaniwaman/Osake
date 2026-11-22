@@ -1,0 +1,35 @@
+{
+    "id": "60be3788-138b-4e35-9ca9-3a8cfb8d4c33",
+    "brand": "菊水　アルピニスト",
+    "rating": 3.0,
+    "date": "2026-11-22",
+    "sweetnessDryness": 0.11282742023468018,
+    "richnessLightness": -0.3097459077835083,
+    "fruity": 0,
+    "sweetness": 0,
+    "place": "",
+    "comment": "",
+    "category": "Sake",
+    "subCategory": "純米酒",
+    "origin": "",
+    "alcoholPercent": 17.5,
+    "volumeMl": 200,
+    "images": [
+        "60be3788-138b-4e35-9ca9-3a8cfb8d4c33_0.jpg",
+        "60be3788-138b-4e35-9ca9-3a8cfb8d4c33_1.jpg",
+        "60be3788-138b-4e35-9ca9-3a8cfb8d4c33_2.jpg"
+    ],
+    "janCode": "4930391121076",
+    "ecItems": [
+        {
+            "provider": "Amazon",
+            "price": 0,
+            "productUrl": "https://www.amazon.co.jp/s?k=4930391121076&tag=sotafactory-22",
+            "iconUrl": ""
+        }
+    ],
+    "createdAt": "2026-11-22T03:57:42Z",
+    "updatedAt": "2026-11-22T03:57:42Z",
+    "deleted": false,
+    "deletedAt": ""
+}
