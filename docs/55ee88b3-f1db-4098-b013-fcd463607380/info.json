@@ -1,0 +1,35 @@
+{
+    "id": "55ee88b3-f1db-4098-b013-fcd463607380",
+    "brand": "ドンシモシ　モミザ",
+    "rating": 3.0,
+    "date": "2026-11-22",
+    "sweetnessDryness": 0.0,
+    "richnessLightness": 0.0,
+    "fruity": 0,
+    "sweetness": 0,
+    "place": "",
+    "comment": "オレンジ",
+    "category": "Wine",
+    "subCategory": "スパークリング",
+    "origin": "",
+    "alcoholPercent": 7.0,
+    "volumeMl": 750,
+    "images": [
+        "55ee88b3-f1db-4098-b013-fcd463607380_0.jpg",
+        "55ee88b3-f1db-4098-b013-fcd463607380_1.jpg",
+        "55ee88b3-f1db-4098-b013-fcd463607380_2.jpg"
+    ],
+    "janCode": "8410261105109",
+    "ecItems": [
+        {
+            "provider": "Amazon",
+            "price": 0,
+            "productUrl": "https://www.amazon.co.jp/s?k=8410261105109&tag=sotafactory-22",
+            "iconUrl": ""
+        }
+    ],
+    "createdAt": "2026-11-22T02:49:24Z",
+    "updatedAt": "2026-11-22T02:49:47Z",
+    "deleted": false,
+    "deletedAt": ""
+}
