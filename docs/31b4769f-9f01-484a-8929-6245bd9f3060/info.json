@@ -1,0 +1,47 @@
+{
+    "id": "31b4769f-9f01-484a-8929-6245bd9f3060",
+    "brand": "ふなぐち菊水 一番しぼり 200ml ｘ 2ケース / 計60本 父親 誕生日 プレゼント クリスマス ギフト お歳暮 ご進物 お年賀 冬ギフト",
+    "rating": 3.5,
+    "date": "2026-11-22",
+    "sweetnessDryness": 0.0,
+    "richnessLightness": 0.0,
+    "fruity": 0,
+    "sweetness": 0,
+    "place": "",
+    "comment": "",
+    "category": "Sake",
+    "subCategory": "吟醸",
+    "origin": "",
+    "alcoholPercent": 19.0,
+    "volumeMl": 200,
+    "images": [
+        "31b4769f-9f01-484a-8929-6245bd9f3060_0.jpg",
+        "31b4769f-9f01-484a-8929-6245bd9f3060_1.jpg",
+        "31b4769f-9f01-484a-8929-6245bd9f3060_2.jpg"
+    ],
+    "janCode": "4930391140121",
+    "ecItems": [
+        {
+            "provider": "Rakuten",
+            "price": 9266,
+            "productUrl": "https://hb.afl.rakuten.co.jp/hgc/g00rde1o.euhkm0e6.g00rde1o.euhkn19b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fissyusouden%2F13422201-30%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fissyusouden%2Fi%2F10011116%2F&rafcid=wsc_i_is_f3345557-b8cd-4450-b856-3a4f1929fdf0",
+            "iconUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/issyusouden/cabinet/2022_e1/13422201-30.jpg?_ex=128x128"
+        },
+        {
+            "provider": "Yahoo",
+            "price": 16996,
+            "productUrl": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3782914&pid=892716091&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fisshusouden-2%2F13422201-60.html",
+            "iconUrl": "https://item-shopping.c.yimg.jp/i/j/isshusouden-2_13422201-60"
+        },
+        {
+            "provider": "Amazon",
+            "price": 0,
+            "productUrl": "https://www.amazon.co.jp/s?k=4930391140121&tag=sotafactory-22",
+            "iconUrl": ""
+        }
+    ],
+    "createdAt": "2026-11-22T02:52:13Z",
+    "updatedAt": "2026-11-22T02:52:23Z",
+    "deleted": false,
+    "deletedAt": ""
+}
