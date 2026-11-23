@@ -1,0 +1,47 @@
+{
+    "id": "eefcc238-7f27-4939-90c8-ca49d386e4fa",
+    "brand": "大関 Sweet Moment 極上の甘口 300ml 濃醇甘口 1本 日本酒",
+    "rating": 3.5,
+    "date": "2026-11-23",
+    "sweetnessDryness": 0.7813981771469116,
+    "richnessLightness": 0.21010255813598633,
+    "fruity": 0,
+    "sweetness": 5,
+    "place": "",
+    "comment": "",
+    "category": "Sake",
+    "subCategory": "吟醸",
+    "origin": "",
+    "alcoholPercent": 11.0,
+    "volumeMl": 300,
+    "images": [
+        "eefcc238-7f27-4939-90c8-ca49d386e4fa_0.jpg",
+        "eefcc238-7f27-4939-90c8-ca49d386e4fa_1.jpg",
+        "eefcc238-7f27-4939-90c8-ca49d386e4fa_2.jpg"
+    ],
+    "janCode": "4901061110355",
+    "ecItems": [
+        {
+            "provider": "Rakuten",
+            "price": 1387,
+            "productUrl": "https://hb.afl.rakuten.co.jp/hgc/g00rde1o.euhkm0e6.g00rde1o.euhkn19b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fissyusouden%2F10024382%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fissyusouden%2Fi%2F10030593%2F&rafcid=wsc_i_is_f3345557-b8cd-4450-b856-3a4f1929fdf0",
+            "iconUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/issyusouden/cabinet/2021_01/09/10024382.jpg?_ex=128x128"
+        },
+        {
+            "provider": "Yahoo",
+            "price": 665,
+            "productUrl": "https://lohaco.yahoo.co.jp/store/h-lohaco/item/wku5611/",
+            "iconUrl": "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_wku5611"
+        },
+        {
+            "provider": "Amazon",
+            "price": 0,
+            "productUrl": "https://www.amazon.co.jp/s?k=4901061110355&tag=sotafactory-22",
+            "iconUrl": ""
+        }
+    ],
+    "createdAt": "2026-11-23T09:20:52Z",
+    "updatedAt": "2026-11-23T09:21:55Z",
+    "deleted": false,
+    "deletedAt": ""
+}
