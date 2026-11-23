@@ -1106,6 +1106,34 @@
             "thumb": "60be3788-138b-4e35-9ca9-3a8cfb8d4c33_0.jpg",
             "updatedAt": "2026-11-22T03:57:42Z",
             "deleted": false
+        },
+        {
+            "id": "eefcc238-7f27-4939-90c8-ca49d386e4fa",
+            "brand": "大関 Sweet Moment 極上の甘口 300ml 濃醇甘口 1本 日本酒",
+            "rating": 3.5,
+            "date": "2026-11-23",
+            "category": "Sake",
+            "sweetnessDryness": 0.7813981771469116,
+            "richnessLightness": 0.21010255813598633,
+            "fruity": 0,
+            "sweetness": 5,
+            "thumb": "eefcc238-7f27-4939-90c8-ca49d386e4fa_0.jpg",
+            "updatedAt": "2026-11-23T09:21:55Z",
+            "deleted": false
+        },
+        {
+            "id": "7601d3ef-bca0-4b10-b9b0-4470e7a55bdd",
+            "brand": "京伝来 純米大吟醸 さらなり 720ml 1本 京都 山本本家 日本酒",
+            "rating": 3.0,
+            "date": "2026-11-23",
+            "category": "Sake",
+            "sweetnessDryness": 0.0,
+            "richnessLightness": 0.0,
+            "fruity": 0,
+            "sweetness": 0,
+            "thumb": "7601d3ef-bca0-4b10-b9b0-4470e7a55bdd_0.jpg",
+            "updatedAt": "2026-11-23T09:21:27Z",
+            "deleted": false
         }
     ],
     "purged": [
