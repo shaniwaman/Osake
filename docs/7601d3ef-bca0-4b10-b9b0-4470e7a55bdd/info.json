@@ -1,0 +1,47 @@
+{
+    "id": "7601d3ef-bca0-4b10-b9b0-4470e7a55bdd",
+    "brand": "京伝来 純米大吟醸 さらなり 720ml 1本 京都 山本本家 日本酒",
+    "rating": 3.0,
+    "date": "2026-11-23",
+    "sweetnessDryness": 0.0,
+    "richnessLightness": 0.0,
+    "fruity": 0,
+    "sweetness": 0,
+    "place": "",
+    "comment": "",
+    "category": "Sake",
+    "subCategory": "純米大吟醸",
+    "origin": "",
+    "alcoholPercent": 15.0,
+    "volumeMl": 720,
+    "images": [
+        "7601d3ef-bca0-4b10-b9b0-4470e7a55bdd_0.jpg",
+        "7601d3ef-bca0-4b10-b9b0-4470e7a55bdd_1.jpg",
+        "7601d3ef-bca0-4b10-b9b0-4470e7a55bdd_2.jpg"
+    ],
+    "janCode": "4903005002252",
+    "ecItems": [
+        {
+            "provider": "Rakuten",
+            "price": 1378,
+            "productUrl": "https://hb.afl.rakuten.co.jp/hgc/g00rde1o.euhkm0e6.g00rde1o.euhkn19b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fissyusouden%2F12722721%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fissyusouden%2Fi%2F10004209%2F&rafcid=wsc_i_is_f3345557-b8cd-4450-b856-3a4f1929fdf0",
+            "iconUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/issyusouden/cabinet/2021_01/07/12722721.jpg?_ex=128x128"
+        },
+        {
+            "provider": "Yahoo",
+            "price": 1080,
+            "productUrl": "https://lohaco.yahoo.co.jp/store/h-lohaco/item/ua47744/",
+            "iconUrl": "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_ua47744"
+        },
+        {
+            "provider": "Amazon",
+            "price": 0,
+            "productUrl": "https://www.amazon.co.jp/s?k=4903005002252&tag=sotafactory-22",
+            "iconUrl": ""
+        }
+    ],
+    "createdAt": "2026-11-23T09:21:27Z",
+    "updatedAt": "2026-11-23T09:21:27Z",
+    "deleted": false,
+    "deletedAt": ""
+}
