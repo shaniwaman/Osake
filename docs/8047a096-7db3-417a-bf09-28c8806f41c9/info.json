@@ -1,0 +1,35 @@
+{
+    "id": "8047a096-7db3-417a-bf09-28c8806f41c9",
+    "brand": "純米　神の井",
+    "rating": 3.0,
+    "date": "2026-11-25",
+    "sweetnessDryness": -0.18573689460754395,
+    "richnessLightness": -0.05218476057052612,
+    "fruity": 0,
+    "sweetness": -2,
+    "place": "",
+    "comment": "",
+    "category": "Sake",
+    "subCategory": "純米酒",
+    "origin": "",
+    "alcoholPercent": 15.0,
+    "volumeMl": 720,
+    "images": [
+        "8047a096-7db3-417a-bf09-28c8806f41c9_0.jpg",
+        "8047a096-7db3-417a-bf09-28c8806f41c9_1.jpg",
+        "8047a096-7db3-417a-bf09-28c8806f41c9_2.jpg"
+    ],
+    "janCode": "4510877000127",
+    "ecItems": [
+        {
+            "provider": "Amazon",
+            "price": 0,
+            "productUrl": "https://www.amazon.co.jp/s?k=4510877000127&tag=sotafactory-22",
+            "iconUrl": ""
+        }
+    ],
+    "createdAt": "2026-11-25T13:37:00Z",
+    "updatedAt": "2026-11-25T13:37:00Z",
+    "deleted": false,
+    "deletedAt": ""
+}
