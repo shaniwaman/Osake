@@ -1134,6 +1134,20 @@
             "thumb": "7601d3ef-bca0-4b10-b9b0-4470e7a55bdd_0.jpg",
             "updatedAt": "2026-11-23T09:21:27Z",
             "deleted": false
+        },
+        {
+            "id": "8047a096-7db3-417a-bf09-28c8806f41c9",
+            "brand": "純米　神の井",
+            "rating": 3.0,
+            "date": "2026-11-25",
+            "category": "Sake",
+            "sweetnessDryness": -0.18573689460754395,
+            "richnessLightness": -0.05218476057052612,
+            "fruity": 0,
+            "sweetness": -2,
+            "thumb": "8047a096-7db3-417a-bf09-28c8806f41c9_0.jpg",
+            "updatedAt": "2026-11-25T13:37:00Z",
+            "deleted": false
         }
     ],
     "purged": [
