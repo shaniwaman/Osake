@@ -12,8 +12,8 @@
     "category": "Sake",
     "subCategory": "純米大吟醸",
     "origin": "",
-    "alcoholPercent": 0.0,
-    "volumeMl": 0,
+    "alcoholPercent": 720.0,
+    "volumeMl": 16,
     "images": [
         "64010052-6cc2-4831-bbdb-eeebe1b2a906_0.jpg",
         "64010052-6cc2-4831-bbdb-eeebe1b2a906_1.jpg",
@@ -29,7 +29,7 @@
         }
     ],
     "createdAt": "2026-11-08T13:35:47Z",
-    "updatedAt": "2026-11-08T13:35:47Z",
+    "updatedAt": "2026-11-28T09:22:15Z",
     "deleted": false,
     "deletedAt": ""
 }
