@@ -900,15 +900,15 @@
         {
             "id": "096f37c9-1dba-4680-bae0-038fc603f28b",
             "brand": "秋限定 奥飛騨酒造 奥飛騨 秋あがり 純米吟醸 720ml 南飛騨 下呂 飛騨金山 奥飛騨 辛口 フルーティ G酵母 冷酒 家飲み お土産 贈り物 箱入り",
-            "rating": 3.0,
+            "rating": 2.0,
             "date": "2026-11-08",
             "category": "Sake",
-            "sweetnessDryness": 0.0,
-            "richnessLightness": 0.0,
-            "fruity": 0,
-            "sweetness": -2,
+            "sweetnessDryness": -0.46,
+            "richnessLightness": -0.44,
+            "fruity": -5,
+            "sweetness": -5,
             "thumb": "096f37c9-1dba-4680-bae0-038fc603f28b_0.jpg",
-            "updatedAt": "2026-11-08T13:33:25Z",
+            "updatedAt": "2026-11-28T13:25:03Z",
             "deleted": false
         },
         {
