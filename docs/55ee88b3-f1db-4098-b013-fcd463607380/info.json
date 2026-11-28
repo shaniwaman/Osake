@@ -1,14 +1,14 @@
 {
     "id": "55ee88b3-f1db-4098-b013-fcd463607380",
-    "brand": "ドンシモシ　モミザ",
-    "rating": 3.0,
+    "brand": "ドンシモシ　ミモザ",
+    "rating": 3.5,
     "date": "2026-11-22",
-    "sweetnessDryness": 0.0,
-    "richnessLightness": 0.0,
+    "sweetnessDryness": 0.68,
+    "richnessLightness": 0.01,
     "fruity": 0,
     "sweetness": 0,
-    "place": "",
-    "comment": "オレンジ",
+    "place": "明治村",
+    "comment": "オレンジのカクテル。美味しい。",
     "category": "Wine",
     "subCategory": "スパークリング",
     "origin": "",
@@ -29,7 +29,7 @@
         }
     ],
     "createdAt": "2026-11-22T02:49:24Z",
-    "updatedAt": "2026-11-22T02:49:47Z",
+    "updatedAt": "2026-11-28T12:51:09Z",
     "deleted": false,
     "deletedAt": ""
 }
