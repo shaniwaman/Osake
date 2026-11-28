@@ -1,14 +1,14 @@
 {
     "id": "919ef8d5-6c3d-4acd-bfa6-706ca6933f0f",
     "brand": "八重寿 山田錦大吟醸 磨き四割 300ml 1本 八重寿銘醸  日本酒",
-    "rating": 2.5,
+    "rating": 2.0,
     "date": "2026-11-07",
-    "sweetnessDryness": -0.40112972259521484,
-    "richnessLightness": 0.035185813903808594,
-    "fruity": -1,
-    "sweetness": -3,
+    "sweetnessDryness": -0.67,
+    "richnessLightness": -0.44,
+    "fruity": -5,
+    "sweetness": -5,
     "place": "",
-    "comment": "",
+    "comment": "居酒屋で出てくる名もなき日本酒系。リピ無し",
     "category": "Sake",
     "subCategory": "純米大吟醸",
     "origin": "",
@@ -41,7 +41,7 @@
         }
     ],
     "createdAt": "2026-11-07T10:54:26Z",
-    "updatedAt": "2026-11-07T10:54:26Z",
+    "updatedAt": "2026-11-28T13:28:28Z",
     "deleted": false,
     "deletedAt": ""
 }
