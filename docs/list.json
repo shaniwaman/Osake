@@ -1108,20 +1108,6 @@
             "deleted": false
         },
         {
-            "id": "eefcc238-7f27-4939-90c8-ca49d386e4fa",
-            "brand": "大関 Sweet Moment 極上の甘口 300ml 濃醇甘口 1本 日本酒",
-            "rating": 2.0,
-            "date": "2026-11-23",
-            "category": "Sake",
-            "sweetnessDryness": 0.7813981771469116,
-            "richnessLightness": 0.21010255813598633,
-            "fruity": 0,
-            "sweetness": 5,
-            "thumb": "eefcc238-7f27-4939-90c8-ca49d386e4fa_0.jpg",
-            "updatedAt": "2026-11-28T00:26:27Z",
-            "deleted": false
-        },
-        {
             "id": "7601d3ef-bca0-4b10-b9b0-4470e7a55bdd",
             "brand": "京伝来 純米大吟醸 さらなり 720ml 1本 京都 山本本家 日本酒",
             "rating": 3.0,
@@ -1138,7 +1124,7 @@
         {
             "id": "8047a096-7db3-417a-bf09-28c8806f41c9",
             "brand": "純米　神の井",
-            "rating": 3.0,
+            "rating": 3.5,
             "date": "2026-11-25",
             "category": "Sake",
             "sweetnessDryness": -0.18573689460754395,
@@ -1146,7 +1132,21 @@
             "fruity": 0,
             "sweetness": -2,
             "thumb": "8047a096-7db3-417a-bf09-28c8806f41c9_0.jpg",
-            "updatedAt": "2026-11-25T13:37:00Z",
+            "updatedAt": "2026-11-26T21:20:43Z",
+            "deleted": false
+        },
+        {
+            "id": "eefcc238-7f27-4939-90c8-ca49d386e4fa",
+            "brand": "大関 Sweet Moment 極上の甘口 300ml 濃醇甘口 1本 日本酒",
+            "rating": 2.0,
+            "date": "2026-11-23",
+            "category": "Sake",
+            "sweetnessDryness": 0.7813981771469116,
+            "richnessLightness": 0.21010255813598633,
+            "fruity": 0,
+            "sweetness": 5,
+            "thumb": "eefcc238-7f27-4939-90c8-ca49d386e4fa_0.jpg",
+            "updatedAt": "2026-11-28T00:26:27Z",
             "deleted": false
         }
     ],
