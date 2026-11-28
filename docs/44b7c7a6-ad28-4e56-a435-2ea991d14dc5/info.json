@@ -3,12 +3,12 @@
     "brand": "勲碧　純米はつしぼり",
     "rating": 3.5,
     "date": "2026-10-12",
-    "sweetnessDryness": 0.29516494274139404,
-    "richnessLightness": -0.28375381231307983,
+    "sweetnessDryness": 0.34,
+    "richnessLightness": -0.09,
     "fruity": 0,
     "sweetness": 1,
     "place": "",
-    "comment": "",
+    "comment": "美味しい。甘くて芳醇。好みの味。",
     "category": "Sake",
     "subCategory": "純米吟醸",
     "origin": "",
@@ -27,7 +27,7 @@
         }
     ],
     "createdAt": "2026-10-11T21:13:32Z",
-    "updatedAt": "2026-10-11T21:13:32Z",
+    "updatedAt": "2026-11-28T13:36:45Z",
     "deleted": false,
     "deletedAt": ""
 }
