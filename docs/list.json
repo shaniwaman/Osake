@@ -597,10 +597,10 @@
             "category": "Sake",
             "sweetnessDryness": -0.01,
             "richnessLightness": -0.03,
-            "fruity": 3,
-            "sweetness": 1,
+            "fruity": -1,
+            "sweetness": -1,
             "thumb": "642ad910-febd-4594-98b4-c08d6e8c930e_0.jpg",
-            "updatedAt": "2026-11-28T13:35:10Z",
+            "updatedAt": "2026-11-28T13:35:33Z",
             "deleted": false
         },
         {
