@@ -3,12 +3,12 @@
     "brand": "日本酒 庵 備前雄町 無濾過純米吟醸 原酒 720ml 熊屋酒造 岡山 クラフトサケ 清酒 フルーティ",
     "rating": 4.0,
     "date": "2026-11-21",
-    "sweetnessDryness": 0.38046908378601074,
-    "richnessLightness": 0.27626514434814453,
+    "sweetnessDryness": 0.38,
+    "richnessLightness": 0.14,
     "fruity": 0,
     "sweetness": 0,
-    "place": "",
-    "comment": "",
+    "place": "大阪　堺",
+    "comment": "小さなスーパーで出会った和歌山の日本酒。気になって買ってみたら大当たり！",
     "category": "Sake",
     "subCategory": "純米吟醸",
     "origin": "",
@@ -41,7 +41,7 @@
         }
     ],
     "createdAt": "2026-11-21T00:46:01Z",
-    "updatedAt": "2026-11-21T00:46:01Z",
+    "updatedAt": "2026-11-28T13:03:48Z",
     "deleted": false,
     "deletedAt": ""
 }
