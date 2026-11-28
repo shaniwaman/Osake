@@ -1071,12 +1071,12 @@
             "rating": 3.5,
             "date": "2026-11-22",
             "category": "Wine",
-            "sweetnessDryness": 0.68,
-            "richnessLightness": 0.01,
+            "sweetnessDryness": 0.49,
+            "richnessLightness": -0.03,
             "fruity": 0,
             "sweetness": 0,
             "thumb": "55ee88b3-f1db-4098-b013-fcd463607380_0.jpg",
-            "updatedAt": "2026-11-28T12:51:09Z",
+            "updatedAt": "2026-11-28T12:58:02Z",
             "deleted": false
         },
         {
