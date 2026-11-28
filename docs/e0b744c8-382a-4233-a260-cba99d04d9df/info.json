@@ -3,12 +3,12 @@
     "brand": "麒麟山 伝統辛口 300ml でんから",
     "rating": 3.5,
     "date": "2026-11-13",
-    "sweetnessDryness": 0.0,
-    "richnessLightness": 0.0,
+    "sweetnessDryness": -0.54,
+    "richnessLightness": 0.09,
     "fruity": -1,
     "sweetness": -1,
-    "place": "",
-    "comment": "",
+    "place": "志賀本通",
+    "comment": "Jの知り合いのおすすめのお酒。辛口でお刺身に合う。J好み。私もこれは好き。特に原酒が良い。",
     "category": "Sake",
     "subCategory": "純米吟醸",
     "origin": "",
@@ -42,7 +42,7 @@
         }
     ],
     "createdAt": "2026-11-13T14:10:37Z",
-    "updatedAt": "2026-11-13T14:21:37Z",
+    "updatedAt": "2026-11-28T13:12:03Z",
     "deleted": false,
     "deletedAt": ""
 }
