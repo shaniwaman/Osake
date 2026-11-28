@@ -3,12 +3,12 @@
     "brand": "純米酒 薩州正宗 300ml 15度",
     "rating": 3.0,
     "date": "2026-10-12",
-    "sweetnessDryness": 0.0,
-    "richnessLightness": 0.0,
+    "sweetnessDryness": -0.01,
+    "richnessLightness": -0.03,
     "fruity": 3,
     "sweetness": 1,
     "place": "鹿児島のお酒",
-    "comment": "",
+    "comment": "まあまあ。可もなく不可もなく。",
     "category": "Sake",
     "subCategory": "純米酒",
     "origin": "",
@@ -39,7 +39,7 @@
         }
     ],
     "createdAt": "2026-10-11T21:27:58Z",
-    "updatedAt": "2026-10-11T21:27:58Z",
+    "updatedAt": "2026-11-28T13:35:10Z",
     "deleted": false,
     "deletedAt": ""
 }
