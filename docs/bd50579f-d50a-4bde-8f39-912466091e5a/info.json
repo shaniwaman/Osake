@@ -1,14 +1,14 @@
 {
     "id": "bd50579f-d50a-4bde-8f39-912466091e5a",
     "brand": "天賦 純米　300",
-    "rating": 3.0,
+    "rating": 3.5,
     "date": "2026-10-12",
-    "sweetnessDryness": 0.2407834529876709,
-    "richnessLightness": -0.17432308197021484,
-    "fruity": 0,
+    "sweetnessDryness": 0.38,
+    "richnessLightness": -0.16,
+    "fruity": 2,
     "sweetness": 2,
     "place": "",
-    "comment": "",
+    "comment": "焼酎しか売ってない鹿児島で必死に探して購入した日本酒。味わい深くて美味しい。買って良かった。",
     "category": "Sake",
     "subCategory": "純米吟醸",
     "origin": "",
@@ -39,7 +39,7 @@
         }
     ],
     "createdAt": "2026-10-11T21:18:12Z",
-    "updatedAt": "2026-10-11T21:18:12Z",
+    "updatedAt": "2026-11-28T13:33:59Z",
     "deleted": false,
     "deletedAt": ""
 }
