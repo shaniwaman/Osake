@@ -1,7 +1,7 @@
 {
     "id": "8047a096-7db3-417a-bf09-28c8806f41c9",
     "brand": "純米　神の井",
-    "rating": 3.0,
+    "rating": 3.5,
     "date": "2026-11-25",
     "sweetnessDryness": -0.18573689460754395,
     "richnessLightness": -0.05218476057052612,
@@ -29,7 +29,7 @@
         }
     ],
     "createdAt": "2026-11-25T13:37:00Z",
-    "updatedAt": "2026-11-25T13:37:00Z",
+    "updatedAt": "2026-11-26T21:20:43Z",
     "deleted": false,
     "deletedAt": ""
 }
