@@ -3,12 +3,12 @@
     "brand": "ふなぐち菊水 一番しぼり 200ml ｘ 2ケース / 計60本 父親 誕生日 プレゼント クリスマス ギフト お歳暮 ご進物 お年賀 冬ギフト",
     "rating": 3.5,
     "date": "2026-11-22",
-    "sweetnessDryness": 0.0,
-    "richnessLightness": 0.0,
-    "fruity": 0,
-    "sweetness": 0,
-    "place": "",
-    "comment": "",
+    "sweetnessDryness": 0.4,
+    "richnessLightness": 0.3,
+    "fruity": 3,
+    "sweetness": 3,
+    "place": "あらゆるシーン",
+    "comment": "アルコール度が高く、喉を通った瞬間に酔える。スターターとしてよい。味もフルーティで甘口。他の種類も飲みたい。スパークリングもあるらしい。新潟行ったら絶対全種類買う。",
     "category": "Sake",
     "subCategory": "吟醸",
     "origin": "",
@@ -41,7 +41,7 @@
         }
     ],
     "createdAt": "2026-11-22T02:52:13Z",
-    "updatedAt": "2026-11-22T02:52:23Z",
+    "updatedAt": "2026-11-28T12:57:17Z",
     "deleted": false,
     "deletedAt": ""
 }
