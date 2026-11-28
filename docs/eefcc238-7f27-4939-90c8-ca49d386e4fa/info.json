@@ -3,12 +3,12 @@
     "brand": "大関 Sweet Moment 極上の甘口 300ml 濃醇甘口 1本 日本酒",
     "rating": 2.0,
     "date": "2026-11-23",
-    "sweetnessDryness": 0.7813981771469116,
-    "richnessLightness": 0.21010255813598633,
+    "sweetnessDryness": 0.73,
+    "richnessLightness": -0.41,
     "fruity": 0,
     "sweetness": 5,
     "place": "明治村",
-    "comment": "",
+    "comment": "甘くて軽い。軽過ぎてリピなし。",
     "category": "Sake",
     "subCategory": "吟醸",
     "origin": "",
@@ -41,7 +41,7 @@
         }
     ],
     "createdAt": "2026-11-23T09:20:52Z",
-    "updatedAt": "2026-11-28T00:26:27Z",
+    "updatedAt": "2026-11-28T12:49:16Z",
     "deleted": false,
     "deletedAt": ""
 }
